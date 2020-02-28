@@ -12,3 +12,6 @@ More layout planning and MVP restructuring
 
 **11:40 - 12:15**
 Finish up capstone work for the day
+
+**12:15 - 13:15**
+Lunch
