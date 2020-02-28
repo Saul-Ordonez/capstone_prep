@@ -9,3 +9,6 @@ Start mapping out layout for site
 
 **10:50 - 11:40**
 More layout planning and MVP restructuring
+
+**11:40 - 12:15**
+Finish up capstone work for the day
